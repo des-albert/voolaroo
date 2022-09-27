@@ -1,4 +1,5 @@
 <template>
+  <div class="resume">
     <div class="container">
       <div class="row"></div>
       <div class="row">
@@ -59,22 +60,24 @@
         <div class="col-8 border-left text-left">
           <h3>Languages</h3>
           <ul>
-            <li>Node JS, Vue, Angular</li>
+            <li>Node JS, Vue, Angular, Flutter</li>
             <li>HTML, CSS</li>
             <li>Ruby on Rails</li>
             <li>Java, JavaFX</li>
+            <li>Fortran</li>            
             <li>C#, Visual Basic, ASP .NET</li>
             <li>C, C++</li>
             <li>Linux / Unix shell</li>
           </ul>
           <h3>Virtualization / Cloud</h3>
           <ul>
+            <li>ContainersPodman, Docker, Sarus, Charliecloud, Singularity, Kubernetes</li>
             <li>Amazon Web Services</li>
             <li>Heroku</li>
             <li>Microsoft Azure</li>
             <li>VMware ESX</li>
             <li>Microsoft Hyper-V</li>
-            <li>Linux KVM and Oracle Virtual Machines</li>
+            <li>Linux KVM and Oracle Virtual Machines</li>          
             <li>HP-UX Virtual Machines</li>
           </ul>
           <h3>Applications</h3>
@@ -88,7 +91,7 @@
           </ul>
           <h3>Operating Systems</h3>
           <ul>
-            <li>Linux – RedHat, CentOS, Fedora, SuSe</li>
+            <li>Linux – RedHat, CentOS, Fedora, SuSE</li>
             <li>Windows – Windows Server, Windows 10</li>
             <li>Solaris</li>
             <li>MacOS</li>
@@ -111,11 +114,17 @@
         </div>
         <div class="col-8 border-left text-left">
           <div class="text-left">
+            <h3>Hewlett Packard Enterprise - <span>Product Manager, HPC Operating Systems</span></h3>
+            <p>Jan 2022 - Present</p>
+            Co-ordinating HPC software compatibility and product management of the Cray Operating System.
+            <h3>Hewlett Packard Enterprise - <span>Product Manager, HPC Programming Environment</span></h3>
+            <p>Oct 2020 - Dec 2021</p>
+            Management of the HPE Cray Programming Environment portfolio of software for HPC system application development including,
+            compilers, debuggers, MPI and associated tools.
             <h3>Hewlett Packard Enterprise - <span>Sales Analyst</span></h3>
-            <p>Jan 2020 - Present</p>
+            <p>Jan 2020 - Sep 2020</p>
             Technical validation of High Performance Computing systems in preparation for proposals to customers and
             manufacture.
-
             <h3>Cray Inc - <span>Senior Sales Enablement Specialist</span></h3>
             <p>Nov 2015 - Dec 2019</p>
             Assist local and international sales and presales staff with configuration of complex solutions. Review the
@@ -295,5 +304,6 @@
         <div class="col"></div>
       </div>
     </div>
-  </template>
+  </div>
+</template>
   

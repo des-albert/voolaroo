@@ -4,6 +4,10 @@ import Projects from '@/views/Projects.vue'
 import Resume from '@/views/Resume.vue'
 import About from '@/views/About.vue'
 
+import Javelin from '@/views/Javelin.vue'
+import Tokens from '@/views/Tokens.vue'
+import Soap from '@/views/Soap.vue'
+
 
 const routes = [
   {
@@ -15,6 +19,21 @@ const routes = [
     path: '/projects',
     name: 'Projects',
     component: Projects
+  },
+  {
+    path: '/javelin',
+    name: 'Javelin',
+    component: Javelin
+  },
+  {
+    path: '/tokens',
+    name: 'Tokens',
+    component: Tokens
+  },
+  {
+    path: '/soap',
+    name: 'Soap',
+    component: Soap
   },
   {
     path: '/resume',

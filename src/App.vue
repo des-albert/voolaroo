@@ -4,7 +4,10 @@
     <vue-3d-menu title="menu" :items="items" /> 
   </div>
   <div id="app">
-      <router-view>         
+      <router-view v-slot="{ Component }">  
+        <transition name="bounce">
+          <component :is="Component"/> 
+        </transition>     
       </router-view> 
   </div> 
 </template>
