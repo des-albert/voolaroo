@@ -26,7 +26,7 @@
           <p>SOAP interaction with Salesforce and Oracle Agile PLM</p>
           <p>Java + JavaFX</p>
           <p>NodeJS + Vue</p>
-          <p>NodeJS + Amgualar</p>
+          <p>NodeJS + Angular</p>
         </div>
       </div>
     </div>
