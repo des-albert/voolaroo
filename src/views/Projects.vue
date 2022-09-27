@@ -4,15 +4,15 @@
     <div class="container">
       <div class="row">
         <div  class="col-4" align="center">
-          <p><a href="/javelin">
-            <img src="../img/javelin.png" height="150" width="200" class="grow"></a></p>
+          <p><router-link to="/javelin">
+            <img src="../img/javelin.png" height="150" width="200" class="grow"></router-link></p>
           "Javelin"
           <p>Drag and Drop configuration</p>
           <p>Java & JavaFX</p>
         </div>
         <div  class="col-4" align="center">
-          <p><a href="/tokens">
-          <img src="../img/token.png" height="150" width="150" class="grow"></a></p>
+          <p><router-link to="/tokens">
+          <img src="../img/token.png" height="150" width="150" class="grow"></router-link></p>
           "Tokens"
           <p>Team Task Management</p>
           <p>Ruby on Rails</p>
@@ -20,8 +20,8 @@
         </div>
 
         <div  class="col-4" align="center">
-          <p><a href="/soap">
-          <img src="../img/soap.png" height="100" width="200" class="grow"></a></p>
+          <p><router-link to="/soap">
+          <img src="../img/soap.png" height="100" width="200" class="grow"></router-link></p>
           "SOAP"
           <p>SOAP interaction with Salesforce and Oracle Agile PLM</p>
           <p>Java + JavaFX</p>
