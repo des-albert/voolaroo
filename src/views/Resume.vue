@@ -32,8 +32,8 @@
           </p>
           <p class="text-right">
             Website:
-            <a href="http://oolaroo.site/">
-              oolaroo.site
+            <a href="http://oolaroo.info/">
+              oolaroo.info
             </a>
           </p>
           <p class="text-right">
@@ -114,7 +114,7 @@
         </div>
         <div class="col-8 border-left text-left">
           <div class="text-left">
-            <h3>Hewlett Packard Enterprise - <span>Product Manager, HPC Operating Systems</span></h3>
+            <h3>Hewlett Packard Enterprise - <span>Product Manager, HPC Software</span></h3>
             <p>Jan 2022 - Present</p>
             Co-ordinating HPC software compatibility and product management of the Cray Operating System.
             <h3>Hewlett Packard Enterprise - <span>Product Manager, HPC Programming Environment</span></h3>
